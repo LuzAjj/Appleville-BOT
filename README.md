@@ -24,10 +24,12 @@ Green text when a plot is harvested.
 Countdown until each growing plot is ready.
 Clear logs when buying seeds, applying boosters, and exchanging AP.
 
+DO WITH YOUR OWN RISK
+
 ## Setup
 
 ```bash
-git clone <your-repo-url> appleville-bot
+git clone https://github.com/LuzAjj/Appleville-BOT.git appleville-bot
 cd appleville-bot
 cp .env.example .env
 # open .env and paste your session cookie(s) from browser DevTools
